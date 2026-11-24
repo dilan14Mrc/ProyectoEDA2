@@ -1,0 +1,13 @@
+package Tarea;
+
+public enum Pantalla {
+    CARATULA,
+    MENU_PRINCIPAL,
+    MENU_EFICIENCIA,
+    EFICIENCIA_FOR,
+    EFICIENCIA_GAUSS,
+    EFICIENCIA_COMPARACION,
+    COMPLEJIDAD,
+    CLASES_NP,
+    GRAFOS
+}
